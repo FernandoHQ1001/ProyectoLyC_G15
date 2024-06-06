@@ -1,0 +1,7 @@
+entero num=0, total=5
+mientras (num<total)
+  num = num + 2
+  si (num>5)
+    total = total + 1
+  finSi
+finMientras
